@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D5A0B1EB-407C-3F2A-9D86-05EB55B00893}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerLocmotion.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerLocmotion.cs" Line="12" Column="34" />
+      <File FileName="Assets/Scripts/CameraHandler.cs" />
+      <File FileName="Assets/Scripts/ControlsMac.cs" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" />
+      <File FileName="Assets/ResetisInteracting.cs" />
+      <File FileName="Assets/Scripts/AnimaterHandler.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dark Souls" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5e12a99b-0588-44c1-8b82-8212952f4607" />
+  <MultiItemStartupConfigurations />
+</Properties>
